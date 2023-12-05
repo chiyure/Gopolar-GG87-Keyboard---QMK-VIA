@@ -1,6 +1,6 @@
 # Gopolar-GG87-Keyboard-QMK-VIA
 
-Firmware for QMK + VIA for Gopolar GG87.
+Bongocat firmware for QMK + VIA for Gopolar GG87 keyboard.
 
 == QMK ==
 1. Flash on QMK first with the HEX file.
