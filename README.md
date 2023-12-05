@@ -1,5 +1,7 @@
 # Gopolar-GG87-Keyboard-QMK-VIA
 
+Firmware for QMK + VIA for Gopolar GG87.
+
 == QMK ==
 1. Flash on QMK first with the HEX file.
    
