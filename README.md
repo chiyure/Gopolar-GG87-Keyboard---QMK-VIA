@@ -1,4 +1,4 @@
-Gopolar GG87 Keyboard QMK + VIA
+> Gopolar GG87 Keyboard QMK + VIA
 Bongocat firmware for QMK + VIA for Gopolar GG87 keyboard.
 
 QMK
