@@ -1,5 +1,5 @@
 **# Gopolar-GG87-Keyboard-QMK-VIA**
-Bongocat firmware for QMK + VIA for Gopolar GG87 keyboard.
+- Bongocat firmware for QMK + VIA for Gopolar GG87 keyboard.
 
 **# QMK**
 - ISO UK TKL Layout.
